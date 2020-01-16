@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name"> شحن رصيد</string>
+
+
+    <string name="vod">vodafone</string>
+    <string name="we">we</string>
+    <string name="et">etisalte</string>
+    <string name="or">orange</string>
+
+</resources>

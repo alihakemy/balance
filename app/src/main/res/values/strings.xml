@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ReCharge balance</string>
+
+
+    <string name="vod">vodafone</string>
+    <string name="we">we</string>
+    <string name="et">etisalte</string>
+    <string name="or">orange</string>
+</resources>
